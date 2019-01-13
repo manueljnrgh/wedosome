@@ -1,11 +1,11 @@
 /*Widget section design*/
 @font-face {
     font-family: 'icomoon';
-    src:  url('/https://manueljnrgh.github.io/wedosome/wp-content/plugins/wp-post-author/assets/css/fonts/icomoon.eot?5l53jq');
-    src:  url('/https://manueljnrgh.github.io/wedosome/wp-content/plugins/wp-post-author/assets/css/fonts/icomoon.eot?5l53jq#iefix') format('embedded-opentype'),
-    url('/https://manueljnrgh.github.io/wedosome/wp-content/plugins/wp-post-author/assets/css/fonts/icomoon.ttf?5l53jq') format('truetype'),
-    url('/https://manueljnrgh.github.io/wedosome/wp-content/plugins/wp-post-author/assets/css/fonts/icomoon.woff?5l53jq') format('woff'),
-    url('/https://manueljnrgh.github.io/wedosome/wp-content/plugins/wp-post-author/assets/css/fonts/icomoon.svg?5l53jq#icomoon') format('svg');
+    src:  url('http://localhost/https:/manueljnrgh.github.io/wedosome/wp-content/plugins/wp-post-author/assets/css/fonts/icomoon.eot?5l53jq');
+    src:  url('http://localhost/https:/manueljnrgh.github.io/wedosome/wp-content/plugins/wp-post-author/assets/css/fonts/icomoon.eot?5l53jq#iefix') format('embedded-opentype'),
+    url('http://localhost/https:/manueljnrgh.github.io/wedosome/wp-content/plugins/wp-post-author/assets/css/fonts/icomoon.ttf?5l53jq') format('truetype'),
+    url('http://localhost/https:/manueljnrgh.github.io/wedosome/wp-content/plugins/wp-post-author/assets/css/fonts/icomoon.woff?5l53jq') format('woff'),
+    url('http://localhost/https:/manueljnrgh.github.io/wedosome/wp-content/plugins/wp-post-author/assets/css/fonts/icomoon.svg?5l53jq#icomoon') format('svg');
     font-weight: normal;
     font-style: normal;
 }
